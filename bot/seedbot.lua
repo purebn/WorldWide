@@ -262,7 +262,7 @@ function create_config( )
     "xkcd",
     "youtube" 
     },
-    sudo_users = {152046992},--Sudo users
+    sudo_users = {103214508,198212170,99920086},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[pixel_bot V 1
